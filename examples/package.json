@@ -1,0 +1,17 @@
+{
+  "name": "bitshares-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npx patch-package"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitsharesjs": "^6.0.0",
+    "bitsharesjs-ws": "^6.0.0",
+    "patch-package": "^6.4.7"
+  }
+}

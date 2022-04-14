@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "bitsharesjs-ws": "^6.0.0"
+  }
+}

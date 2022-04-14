@@ -106,3 +106,5 @@ dist
 
 bin/*
 node_dir*
+logs*
+blockchain*

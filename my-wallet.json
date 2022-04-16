@@ -1,0 +1,127 @@
+{
+  "chain_id": "59af7726129cb6bb72bb607724882469a47912acb08319a1e65ecc88b0d6b974",
+  "my_accounts": [{
+      "id": "1.2.9",
+      "membership_expiration_date": "2106-02-07T06:28:15",
+      "registrar": "1.2.9",
+      "referrer": "1.2.9",
+      "lifetime_referrer": "1.2.9",
+      "network_fee_percentage": 2000,
+      "lifetime_referrer_fee_percentage": 8000,
+      "referrer_rewards_percentage": 0,
+      "name": "admin",
+      "owner": {
+        "weight_threshold": 1,
+        "account_auths": [],
+        "key_auths": [[
+            "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6",
+            1
+          ]
+        ],
+        "address_auths": []
+      },
+      "active": {
+        "weight_threshold": 1,
+        "account_auths": [],
+        "key_auths": [[
+            "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6",
+            1
+          ]
+        ],
+        "address_auths": []
+      },
+      "options": {
+        "memo_key": "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6",
+        "voting_account": "1.2.5",
+        "num_witness": 0,
+        "num_committee": 0,
+        "votes": [],
+        "extensions": []
+      },
+      "num_committee_voted": 0,
+      "statistics": "2.6.9",
+      "whitelisting_accounts": [],
+      "blacklisting_accounts": [],
+      "whitelisted_accounts": [],
+      "blacklisted_accounts": [],
+      "cashback_vb": "1.13.0",
+      "owner_special_authority": [
+        0,{}
+      ],
+      "active_special_authority": [
+        0,{}
+      ],
+      "top_n_control_flags": 0
+    },{
+      "id": "1.2.10",
+      "membership_expiration_date": "1970-01-01T00:00:00",
+      "registrar": "1.2.9",
+      "referrer": "1.2.9",
+      "lifetime_referrer": "1.2.9",
+      "network_fee_percentage": 2000,
+      "lifetime_referrer_fee_percentage": 3000,
+      "referrer_rewards_percentage": 0,
+      "name": "demo-user-01",
+      "owner": {
+        "weight_threshold": 1,
+        "account_auths": [],
+        "key_auths": [[
+            "BTS8VXrvJAj1ZqeysgtbWMA5f19N9KHujCe7cZ578mSWW1w6KNiSA",
+            1
+          ]
+        ],
+        "address_auths": []
+      },
+      "active": {
+        "weight_threshold": 1,
+        "account_auths": [],
+        "key_auths": [[
+            "BTS72nQGgR8fb2PCnt6ony2tgo73KJ1eXYB2V8nR6UvwAyFxLtmiP",
+            1
+          ]
+        ],
+        "address_auths": []
+      },
+      "options": {
+        "memo_key": "BTS5adWC1e4sDiw2wPZ9Btfog2tuhUkt2dzvEDutCHwNjSqh5ctmZ",
+        "voting_account": "1.2.5",
+        "num_witness": 0,
+        "num_committee": 0,
+        "votes": [],
+        "extensions": []
+      },
+      "num_committee_voted": 0,
+      "statistics": "2.6.10",
+      "whitelisting_accounts": [],
+      "blacklisting_accounts": [],
+      "whitelisted_accounts": [],
+      "blacklisted_accounts": [],
+      "owner_special_authority": [
+        0,{}
+      ],
+      "active_special_authority": [
+        0,{}
+      ],
+      "top_n_control_flags": 0
+    }
+  ],
+  "cipher_keys": "d5f80933c93f204f7867039c2b106dd0d567cdcbc4fa97982140d0130b9049075c2f93a7c7e7662693be0c01df7a69bc980d60976887504fbfc565350e8edcdccb4a92c3db47712bb03205a8c79f1a8cf4208c418224a0e8bbe510d404dc3d150176c5563c4178b86e1e11fc01ff3f9552dc65649052f28c471086b9d74d7cc9516abff955199e53d30c0e4f212b6bbc7b93792700e724c526da818b61ff7320639abe9a8888c9b124663bc7e0438bf5e3a0e56b2ad7e819a65b8a74bd3ecc6cf455af3cb97944c39f2107a63f4cc8806478d8d297731fb1a9af52d7352e46418d6d44b703a1d80f3597dbbf9473c87516a45a89aa6fa70e249faf6c8183eb714e71bb2f295a74f9cc3baa92fbd43a3ae2d30bd24561487e010bd0cf6a42ffc7d2b68c0fd1203f34fb2fc4195527dc6e39f3aa211df021e82c90c3140cc49bcc21bb643efdffeb7f25932d99b1dad2f3",
+  "extra_keys": [[
+      "1.2.9",[
+        "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6"
+      ]
+    ],[
+      "1.2.10",[
+        "BTS72nQGgR8fb2PCnt6ony2tgo73KJ1eXYB2V8nR6UvwAyFxLtmiP",
+        "BTS5adWC1e4sDiw2wPZ9Btfog2tuhUkt2dzvEDutCHwNjSqh5ctmZ"
+      ]
+    ]
+  ],
+  "pending_account_registrations": [],
+  "pending_witness_registrations": [],
+  "labeled_keys": [],
+  "blind_receipts": [],
+  "ws_server": "ws://0.0.0.0:40201",
+  "ws_user": "",
+  "ws_password": ""
+}

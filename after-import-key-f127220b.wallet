@@ -1,0 +1,70 @@
+{
+  "chain_id": "59af7726129cb6bb72bb607724882469a47912acb08319a1e65ecc88b0d6b974",
+  "my_accounts": [{
+      "id": "1.2.9",
+      "membership_expiration_date": "1970-01-01T00:00:00",
+      "registrar": "1.2.4",
+      "referrer": "1.2.0",
+      "lifetime_referrer": "1.2.0",
+      "network_fee_percentage": 2000,
+      "lifetime_referrer_fee_percentage": 3000,
+      "referrer_rewards_percentage": 0,
+      "name": "admin",
+      "owner": {
+        "weight_threshold": 1,
+        "account_auths": [],
+        "key_auths": [[
+            "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6",
+            1
+          ]
+        ],
+        "address_auths": []
+      },
+      "active": {
+        "weight_threshold": 1,
+        "account_auths": [],
+        "key_auths": [[
+            "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6",
+            1
+          ]
+        ],
+        "address_auths": []
+      },
+      "options": {
+        "memo_key": "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6",
+        "voting_account": "1.2.5",
+        "num_witness": 0,
+        "num_committee": 0,
+        "votes": [],
+        "extensions": []
+      },
+      "num_committee_voted": 0,
+      "statistics": "2.6.9",
+      "whitelisting_accounts": [],
+      "blacklisting_accounts": [],
+      "whitelisted_accounts": [],
+      "blacklisted_accounts": [],
+      "owner_special_authority": [
+        0,{}
+      ],
+      "active_special_authority": [
+        0,{}
+      ],
+      "top_n_control_flags": 0
+    }
+  ],
+  "cipher_keys": "4cf009136ccd74a796a1b9946566f0d89225c05bd8003261859dbbb3f5003bfd4e20a63f3cbb96d1b8e1ddb5f57341a29d7632c14e986f63bf474031732f660bd4ef224ee70f3c640eb0ed328c23945fe91b899b98e82096c18e45792c86ad1beb2d5e6380a2d1bd7cb0644b55269776c2ca396bd9f6d1ab34ddde3d7da6a3748000eac1bfbdbd42c71a9026dc699ced9c85243e0141bb38a705ed11d9032a2d",
+  "extra_keys": [[
+      "1.2.9",[
+        "BTS51ABY2MWbn3W5NNW3JNJRDraEi4JbzEAmBa3jiTQJ7f99Z7xJ6"
+      ]
+    ]
+  ],
+  "pending_account_registrations": [],
+  "pending_witness_registrations": [],
+  "labeled_keys": [],
+  "blind_receipts": [],
+  "ws_server": "ws://0.0.0.0:40201",
+  "ws_user": "",
+  "ws_password": ""
+}

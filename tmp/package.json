@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bitsharesjs": "^6.0.0",
     "bitsharesjs-ws": "^6.0.0"
   }
 }

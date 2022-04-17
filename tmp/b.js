@@ -1,7 +1,7 @@
 var { Apis, ChainConfig } = require("bitsharesjs-ws");
 // modify chain_id
 //console.log(ChainConfig.networks.BitShares.chain_id);
-ChainConfig.networks.BitShares.chain_id = "59af7726129cb6bb72bb607724882469a47912acb08319a1e65ecc88b0d6b974";
+ChainConfig.networks.BitShares.chain_id = "e9d1707869ef23f1fe64545543939b5b053d6b9c16a8b02ad2004bc4c735e6e6";
 var { PrivateKey,TransactionBuilder } = require('bitsharesjs');
 var util = require('util');
 

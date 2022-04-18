@@ -108,3 +108,4 @@ bin/*
 node_dir*
 logs*
 blockchain*
+*.json

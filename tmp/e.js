@@ -1,4 +1,3 @@
-const { NumberUtils } = require("bitsharesjs");
 var { Apis, ChainConfig } = require("bitsharesjs-ws");
 var util = require('util');
 // modify chain_id
